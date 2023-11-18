@@ -1,0 +1,4 @@
+.DS_Store
+.pabotsuitenames
+pabot_results/
+library/__pycache__/

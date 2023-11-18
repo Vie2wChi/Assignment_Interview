@@ -1,0 +1,18 @@
+checkout_info: 
+  Payment: "SauceCard #31337"
+  Shipping: Free Pony Express Delivery!
+  Item_total: "Item total: $129.94"
+  Tax:  "Tax: $10.40"
+  Total:  "Total: $140.34"
+
+checkout_complete:
+  complete: "Checkout: Complete!"
+  thanks: Thank you for your order!
+  desc: Your order has been dispatched, and will arrive just as fast as the pony can get there!
+
+error_checkout_info:
+  require_firstname: "Error: First Name is required"
+  require_lastname: "Error: Last Name is required"
+  require_zipcode: "Error: Postal Code is required"
+
+  

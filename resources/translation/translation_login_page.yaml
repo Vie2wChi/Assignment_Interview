@@ -1,0 +1,6 @@
+error:
+  locked_out: "Epic sadface: Sorry, this user has been locked out."
+  required_username: "Epic sadface: Username is required"
+  required_password: "Epic sadface: Password is required"
+  username_invalid: "Epic sadface: Username and password do not match any user in this service"
+  password_invalid: "Epic sadface: Username and password do not match any user in this service"
